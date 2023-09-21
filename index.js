@@ -15,6 +15,6 @@ const cubic = Object.freeze({
         return Math.pow(1 - amount, 3) + 1;
     },
     inOut: amount  => {
-
+        // 222
     }
 })
