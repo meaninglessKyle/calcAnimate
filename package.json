@@ -1,0 +1,11 @@
+{
+  "name": "calc-animate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/meaninglessKyle/calcAnimate.git",
+  "author": "meaninglessKyle <kyle9202@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tweenjs/tween.js": "^21.0.0"
+  }
+}
